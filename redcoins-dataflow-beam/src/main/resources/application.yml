@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+spring:
+  main:
+    web-environment: false
+  output:
+    ansi:
+      enabled: ALWAYS
+      

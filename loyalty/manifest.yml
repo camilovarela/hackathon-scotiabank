@@ -1,0 +1,7 @@
+---
+applications:
+- name: RedCoinsApi
+  random-route: true
+  path: target/loyalty-0.0.1-SNAPSHOT.jar
+  memory: 192M
+  instances: 1
